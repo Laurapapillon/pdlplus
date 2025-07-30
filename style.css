@@ -175,3 +175,6 @@ body{
     border-radius: 100%;
     float:center;
 }
+h1, h2, .logo, .navbar {
+  font-family: 'Bebas Neue', sans-serif;
+}
